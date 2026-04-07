@@ -49,9 +49,6 @@ I maintain and contribute to platform projects that power hybrid deployments and
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=harry6396&show_icons=true&hide_border=true&theme=dark&count_private=true" alt="Overall Stats" height="180" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=harry6396&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" height="180" />
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harry6396&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 -----
